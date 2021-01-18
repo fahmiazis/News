@@ -22,7 +22,7 @@ News adalah aplikasi portal berita, aplikasi ini dibuat untuk memudahkan seseora
 
 - Register
 - Login
-- Baca Article
+- Read Article
 - Search Article
 - Sort by Article Popular
 - Create Article
