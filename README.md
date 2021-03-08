@@ -44,4 +44,4 @@ git clone https://github.com/fahmiazis/News.git
 
 **Related Project Backend**
 
-[`Backend-RESTful-API`](https://github.com/fahmiazis/newsfromaws)
+[`Backend-RESTful-API`](https://github.com/fahmiazis/backup-awsnews)
